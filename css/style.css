@@ -4,10 +4,14 @@
 }
 body{
     padding: 1rem;
-    
+    background-image:url(/img/pexels-janik-butz-5366526.jpg);
+    background-position: center;
+    background-size: cover;
 }
 h1 {
     text-align: center;
+    text-transform: uppercase;
+    color: #fff;
 }
 
 form{
@@ -16,6 +20,7 @@ form{
     gap: 1rem;
     width: 450px;
     margin: 0 auto;
+    text-transform: uppercase;
 }
 
 label{
@@ -29,6 +34,7 @@ padding: 10px;
 border: 1px solid #ccc;
 border-radius: 5px;
 font-size: 1rem;
+cursor: pointer;
 }
 
 button{
