@@ -41,8 +41,10 @@ button{
     cursor: pointer;
 }
 
+@media(max-weidth:600px){
+    
 
-
+}
 
 
 
